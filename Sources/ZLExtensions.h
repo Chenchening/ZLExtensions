@@ -1,6 +1,6 @@
-#ifndef Common_h
-#define Common_h
+#ifndef ZLExtensions
+#define ZLExtensions
 
-#import "Common.h"
+#import "NSDictionary+Parameters.h"
 
 #endif
